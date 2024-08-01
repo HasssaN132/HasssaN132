@@ -55,7 +55,7 @@
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/Hassan Shahid/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Hassan-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/<a href="https://www.linkedin.com/in/Hassan Shahid/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Hassan-blue?style=for-the-badge&logo=linkedin"></a>/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Hassan-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/m.hasanshahid/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hassan-blue?style=for-the-badge&logo=instagram"></a>
 </p>
 
